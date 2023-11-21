@@ -170,7 +170,7 @@ temple.html :
 
 ## Output:
 index.html:
-![maps](maps.jpg)
+![WhatsApp Image 2023-11-21 at 16 27 06_e3bb5d01](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/e67ea816-951e-40b1-bdf9-d90ce515138b)
 
 college.html:
 ![image](https://github.com/SANTHAN-2006/Ex-04-webTech_imagemap/assets/80164014/eb7fb4da-be42-4af7-aff2-62a55d92d63a)
